@@ -18,6 +18,33 @@ header,
 /* .navbar-brand{
   teccolor: #d90429;
 } */
+.cric{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+.cl{
+  font-size: 1rem;
+}
+.bad{
+  border-radius: 100%;
+  width: 22%;
+  float: right;
+  padding: 40px;
+  position: relative;
+  top: -50px;
+}
+/* .skill-row{
+  width: 50%;
+  margin: 100px auto 100px ;
+  text-align: left;
+  /*line-height: 2;*/
+} */
+.nav-item{
+  padding-left: 2px;
+  padding-right: 2px;
+}
 .top-nav-collapse {
     background-color: #6b705c;
   }
